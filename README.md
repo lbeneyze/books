@@ -22,6 +22,8 @@ I'm always open to be inspired with new reading materials. Feel free to send the
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41yDXnkcLgL._SX337_BO1,204,203,200_.jpg" width="100"> |[The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/) | Patrick Lencioni | ⭐⭐⭐⭐⭐ | To be written
 | <img src="https://media.s-bol.com/4x3Z6PRm53mJ/544x840.jpg" width="100"> |[Leiderschap in de digitale wereld](https://www.bol.com/nl/p/leiderschap-in-de-digitale-wereld/9200000120236882/?bltgh=lX4xyRHh6pw-F51KnYpJXw.1_4.5.ProductTitle) |  Ralf Knegtmans | ⭐⭐⭐⭐ | To be written
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41abizSKhsL._SX331_BO1,204,203,200_.jpg" width="100"> |[The Product Samurai: A Product Manager’s Guide to Continuous Innovation](https://www.amazon.com/Product-Samurai-Chris-Lukassen/dp/9462287864) |  Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://media.s-bol.com/578XNDZP6LNx/548x840.jpg" width="100"> |[Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.bol.com/nl/f/the-lean-startup/35272137/) |  Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
+
 
 ## Reading list
 #### Short list
