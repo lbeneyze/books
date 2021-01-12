@@ -1,13 +1,20 @@
 # Introduction
 This page contains an overview of books that I have read and/or are planning to read.
 
-I started to appreciate book (e.g. Audiobooks) since I entered my thirties. It helps me to activate my brain, reflect and develop myself as a human being. The ratings below are my personal ratings, based on how I experienced the book and how relevant it is to my day-to-day life.
+I love reading and I'm disappointed that I don't have (take) time to read more. When I started with my own company in 2007, I realised that you have to learn your entire life if you want to progress. "Progress" doesn't mean to be the best, it means to gain new insights, to sense the world better.
+Next to the many online courses, continuously reading is big part of my lifelong learning journey. 
+
+The ratings below are my personal ratings, based on how I experienced the book and how relevant it is to my day-to-day life.
 
 # Contribute
-I'm always open to be inspired with new reading materials. Feel free to send them to: 
+I'm always open to be inspired with new reading materials. I'm instered in the topics that help become a better Data & Analytics Professionals.
+I'm reading books about: Product management, Software architecture, management and entrepreunarial skills in general.
+If you have good ideas, feel free to send them to: 
 [Lohic Beneyzet](mailto:lohic.beneyzet@gmail.com?subject=[GitHub%20books])
 
-
+# Advise
+If like me, you like/love reading, invest some time to become a fast reader. 
+I recommend you to follow the course of Jonathan Levi on Udemy: https://www.udemy.com/course/become-a-superlearner-2-speed-reading-memory-accelerated-learning/
 
 ### Contents
   - [Read books](#read-books)
