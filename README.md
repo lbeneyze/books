@@ -18,16 +18,18 @@ I'm always open to be inspired with new reading materials. Feel free to send the
 ## Read books
 |            | Book        | Author      | Rating      | Summary
 |------------|-------------|-------------|-------------|-------------| 
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51KVkEDF2KL._SX326_BO1,204,203,200_.jpg" width="100"> |[The 7 Habits of Highly Effective People)](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/) | Stephen R. Covey | ⭐⭐⭐⭐⭐ | To be written
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41yDXnkcLgL._SX337_BO1,204,203,200_.jpg" width="100"> |[The Five Dysfunctions of a Team: A Leadership Fable)](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/) | Patrick Lencioni | ⭐⭐⭐⭐⭐ | To be written
-| <img src="https://media.s-bol.com/4x3Z6PRm53mJ/544x840.jpg" width="100"> |[Leiderschap in de digitale wereld)](https://www.bol.com/nl/p/leiderschap-in-de-digitale-wereld/9200000120236882/?bltgh=lX4xyRHh6pw-F51KnYpJXw.1_4.5.ProductTitle) |  Ralf Knegtmans | ⭐⭐⭐⭐ | To be written
-
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51KVkEDF2KL._SX326_BO1,204,203,200_.jpg" width="100"> |[The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/) | Stephen R. Covey | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41yDXnkcLgL._SX337_BO1,204,203,200_.jpg" width="100"> |[The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/) | Patrick Lencioni | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://media.s-bol.com/4x3Z6PRm53mJ/544x840.jpg" width="100"> |[Leiderschap in de digitale wereld](https://www.bol.com/nl/p/leiderschap-in-de-digitale-wereld/9200000120236882/?bltgh=lX4xyRHh6pw-F51KnYpJXw.1_4.5.ProductTitle) |  Ralf Knegtmans | ⭐⭐⭐⭐ | To be written
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41abizSKhsL._SX331_BO1,204,203,200_.jpg" width="100"> |[The Product Samurai: A Product Manager’s Guide to Continuous Innovation](https://www.amazon.com/Product-Samurai-Chris-Lukassen/dp/9462287864) |  Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
 
 ## Reading list
 #### Short list
 |            | Book        | Author      |
 |------------|-------------|-------------|
-| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group)](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41iAwDnLfvL._SX331_BO1,204,203,200_.jpg" width="100"> |[Strategize: Product Strategy and Product Roadmap Practices for the Digital Age 1st Edition](https://www.amazon.com/Strategize-Product-Strategy-Roadmap-Practices/dp/0993499201) | Roman Pichler
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
+| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown 
 | <img src="https://m.media-amazon.com/images/I/41+fcfGskBL.jpg" width="100"> |[The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture](https://www.amazon.com/The-Messy-Middle-Scott-Belsky-audiobook/dp/B07HFF7BV3/) | Scott Belsky 
