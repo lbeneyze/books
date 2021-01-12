@@ -55,3 +55,7 @@ I recommend you to follow the course of Jonathan Levi on Udemy: https://www.udem
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> |[Start with Why: How Great Leaders Inspire Everyone to Take Action)](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek
+
+### More resources
+https://www.qualiware.com/blog/52-books
+https://www.ynharari.com/book/21-lessons-book/
