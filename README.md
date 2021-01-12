@@ -16,6 +16,9 @@ If you have good ideas, feel free to send them to:
 If like me, you like/love reading, invest some time to become a fast reader. 
 I recommend you to follow the course of Jonathan Levi on Udemy: https://www.udemy.com/course/become-a-superlearner-2-speed-reading-memory-accelerated-learning/
 
+# People I follow
+https://github.com/ralphkootker/books
+
 ### Contents
   - [Read books](#read-books)
   - [Reading list](#reading-list)
