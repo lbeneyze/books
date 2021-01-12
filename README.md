@@ -30,6 +30,7 @@ I recommend you to follow the course of Jonathan Levi on Udemy: https://www.udem
 | <img src="https://media.s-bol.com/4x3Z6PRm53mJ/544x840.jpg" width="100"> |[Leiderschap in de digitale wereld](https://www.bol.com/nl/p/leiderschap-in-de-digitale-wereld/9200000120236882/?bltgh=lX4xyRHh6pw-F51KnYpJXw.1_4.5.ProductTitle) |  Ralf Knegtmans | ⭐⭐⭐⭐ | To be written
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41abizSKhsL._SX331_BO1,204,203,200_.jpg" width="100"> |[The Product Samurai: A Product Manager’s Guide to Continuous Innovation](https://www.amazon.com/Product-Samurai-Chris-Lukassen/dp/9462287864) |  Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
 | <img src="https://media.s-bol.com/578XNDZP6LNx/548x840.jpg" width="100"> |[Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.bol.com/nl/f/the-lean-startup/35272137/) |  Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41ef9z7YKnL._SX331_BO1,204,203,200_.jpg" width="100"> |[Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |  Daniel H. Pink | ⭐⭐⭐⭐⭐ | To be written
 
 
 ## Reading list
@@ -40,16 +41,16 @@ I recommend you to follow the course of Jonathan Levi on Udemy: https://www.udem
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
 | <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown 
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
+| <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
+| <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
+| <img src="https://images-na.ssl-images-amazon.com/images/I/411yrcBHmPL._SX321_BO1,204,203,200_.jpg" width="100"> |[The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627) | Scott E. Page
 | <img src="https://m.media-amazon.com/images/I/41+fcfGskBL.jpg" width="100"> |[The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture](https://www.amazon.com/The-Messy-Middle-Scott-Belsky-audiobook/dp/B07HFF7BV3/) | Scott Belsky 
 | <img src="https://m.media-amazon.com/images/I/51-zooqOoeL.jpg" width="100"> |[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Matthew-Walker-audiobook/dp/B0752XRB5F/) | Matthew Walker 
 | <img src="https://m.media-amazon.com/images/I/41tCQsn8UGL.jpg" width="100"> |[Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS/) | Jim Collins
 | <img src="https://m.media-amazon.com/images/I/51b8+3LQxhL.jpg" width="100"> |[Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.amazon.com/Business-Adventures-John-Brooks-audiobook/dp/B00M047J9E/) | John Brooks
-| <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
-| <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
 | <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> |[Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0/) | Malcolm Gladwell
 | <img src="https://m.media-amazon.com/images/I/41osMBtoloL.jpg" width="100"> |[Mythos](https://www.amazon.com/Mythos-Stephen-Fry-audiobook/dp/B07WKRP2F2/) | Stephen Fry
-
 
 #### Long list
 |            | Book        | Author      |
@@ -57,5 +58,6 @@ I recommend you to follow the course of Jonathan Levi on Udemy: https://www.udem
 | <img src="https://m.media-amazon.com/images/I/51Zuy0g7l+L.jpg" width="100"> |[Start with Why: How Great Leaders Inspire Everyone to Take Action)](https://www.amazon.com/Start-with-Why-Simon-Sinek-audiobook/dp/B074VF6ZLM/) | Simon Sinek
 
 ### More resources
+https://personalmba.com/best-business-books/
 https://www.qualiware.com/blog/52-books
 https://www.ynharari.com/book/21-lessons-book/
