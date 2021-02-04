@@ -55,6 +55,7 @@ https://github.com/ralphkootker/books
 | <img src="https://m.media-amazon.com/images/I/51b8+3LQxhL.jpg" width="100"> |[Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.amazon.com/Business-Adventures-John-Brooks-audiobook/dp/B00M047J9E/) | John Brooks
 | <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> |[Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0/) | Malcolm Gladwell
 | <img src="https://m.media-amazon.com/images/I/41osMBtoloL.jpg" width="100"> |[Mythos](https://www.amazon.com/Mythos-Stephen-Fry-audiobook/dp/B07WKRP2F2/) | Stephen Fry
+| <img src="https://media.s-bol.com/4LOzokkKEG5x/550x775.jpg" width="100"> | [Lean Story Design'] (https://www.bol.com/nl/p/lean-story-design-drieluik/9300000023537440/?bltgh=jn9JoWo53WsaMlPRcg1IbA.2_5.7.ProductTitle) | Gerjon Zomer
 
 #### Long list
 |            | Book        | Author      |
