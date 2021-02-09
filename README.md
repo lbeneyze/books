@@ -36,14 +36,20 @@ https://github.com/ralphkootker/books
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ef9z7YKnL._SX331_BO1,204,203,200_.jpg" width="100"> |[Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |  Daniel H. Pink | ⭐⭐⭐⭐⭐ | To be written
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41iAwDnLfvL._SX331_BO1,204,203,200_.jpg" width="100"> |[Strategize: Product Strategy and Product Roadmap Practices for the Digital Age 1st Edition](https://www.amazon.com/Strategize-Product-Strategy-Roadmap-Practices/dp/0993499201) |  Roman Pichler | ⭐⭐⭐⭐⭐ | Roman Pichler describes in its book how to approach the realisation of a product. It starts by developping a strategy that provides a clear vision, business goals to achieve, needs to be fulfilled for specific customers segments. In its early stage, the strategy is based on many assumptions. It is important to devote time with the team to validate those assumptions. After these research this could led to pivoting or even stopping. When the strategy is clear and product performance KPI have been defined, a product roadmap is defined. This product roadmap is a high level plan on how to achieve the strategy defined. Then the product backlog can be defined with epics and items to the realisation of the product. Each tool has a link and impact each other but should not be tightly as it reduces their flexibility. Depending on the level of uncertainties (product, market, technology, business model...), those tools should be worked out until the highest level of certainty and reviewed constantly with the knowledge acuqired along the journey. Fail/change fast is the motto here. Roman provides also in his book lots of useful template, tools and techniques to help a product owner/manager during this journey. Important is to go outside, to let you help by a multidisciplinary team and to remain objective.      
 
+## Reading in progress list
+|            | Book        | Author      |
+|------------|-------------|-------------|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41G61B4ygXL._AC_SX60_CR,0,0,60,60_.jpg" width="100"> |[The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-dp-1999579518/dp/1999579518/) | Andriy Burkov
+| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
 
-## Reading list
+
+## Reading wish list
 #### Short list
 |            | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41G61B4ygXL._AC_SX60_CR,0,0,60,60_.jpg" width="100"> |[The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-dp-1999579518/dp/1999579518/) | Andriy Burkov
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
-| <img src="https://images-na.ssl-images-amazon.com/images/I/412m6c12zBL._SX329_BO1,204,203,200_.jpg" width="100"> |[INSPIRED: How to Create Tech Products Customers Love (Silicon Valley Product Group](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507/) | Marty Cagan
+
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
 | <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
