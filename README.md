@@ -30,7 +30,11 @@ https://github.com/ralphkootker/books
 |            | Book        | Author      | Rating      | Summary
 |------------|-------------|-------------|-------------|-------------| 
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51KVkEDF2KL._SX326_BO1,204,203,200_.jpg" width="100"> |[The 7 Habits of Highly Effective People](https://www.amazon.com/Habits-Highly-Effective-People-Powerful/dp/1982137274/) | Stephen R. Covey | ⭐⭐⭐⭐⭐ | To be written
-       
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41yDXnkcLgL._SX337_BO1,204,203,200_.jpg" width="100"> |[The Five Dysfunctions of a Team: A Leadership Fable](https://www.amazon.com/Five-Dysfunctions-Team-Leadership-Fable/dp/0787960756/) | Patrick Lencioni | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://media.s-bol.com/4x3Z6PRm53mJ/544x840.jpg" width="100"> |[Leiderschap in de digitale wereld](https://www.bol.com/nl/p/leiderschap-in-de-digitale-wereld/9200000120236882/?bltgh=lX4xyRHh6pw-F51KnYpJXw.1_4.5.ProductTitle) |  Ralf Knegtmans | ⭐⭐⭐⭐ | To be written
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41abizSKhsL._SX331_BO1,204,203,200_.jpg" width="100"> |[The Product Samurai: A Product Manager’s Guide to Continuous Innovation](https://www.amazon.com/Product-Samurai-Chris-Lukassen/dp/9462287864) |  Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://media.s-bol.com/578XNDZP6LNx/548x840.jpg" width="100"> |[Lean Startup: How Constant Innovation Creates Radically Successful Businesses](https://www.bol.com/nl/f/the-lean-startup/35272137/) | Chris Lukassen | ⭐⭐⭐⭐⭐ | To be written
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41ef9z7YKnL._SX331_BO1,204,203,200_.jpg" width="100"> |[Drive: The Surprising Truth About What Motivates Us](https://www.amazon.com/Drive-Surprising-Truth-About-Motivates/dp/1594484805) |  Daniel H. Pink | ⭐⭐⭐⭐⭐ | To be written
 
 
 ## Reading in progress list
