@@ -50,20 +50,7 @@ https://github.com/ralphkootker/books
 #### Short list
 |            | Book        | Author      |
 |------------|-------------|-------------|
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
-| <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
-| <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51wFRcCtKlL._SX324_BO1,204,203,200_.jpg" width="100"> |[Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.nl/Sprint-Solve-Problems-Test-Ideas/dp/0593076117/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) | Jake Knapp
-| <img src="https://images-na.ssl-images-amazon.com/images/I/417u6oRUPTL._SX404_BO1,204,203,200_.jpg" width="100"> |[Data Modeling Made Simple, 2nd Edition: A Practical Guide for Business and IT Professionals](https://www.amazon.com/Data-Modeling-Made-Simple-Professionals/dp/0977140067) | Steve Hoberman
-| <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
-| <img src="https://images-na.ssl-images-amazon.com/images/I/411yrcBHmPL._SX321_BO1,204,203,200_.jpg" width="100"> |[The Model Thinker: What You Need to Know to Make Data Work for You](https://www.amazon.com/Model-Thinker-What-Need-Know/dp/0465094627) | Scott E. Page
-| <img src="https://m.media-amazon.com/images/I/41+fcfGskBL.jpg" width="100"> |[The Messy Middle: Finding Your Way Through the Hardest and Most Crucial Part of Any Bold Venture](https://www.amazon.com/The-Messy-Middle-Scott-Belsky-audiobook/dp/B07HFF7BV3/) | Scott Belsky 
-| <img src="https://m.media-amazon.com/images/I/51-zooqOoeL.jpg" width="100"> |[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Matthew-Walker-audiobook/dp/B0752XRB5F/) | Matthew Walker 
-| <img src="https://m.media-amazon.com/images/I/41tCQsn8UGL.jpg" width="100"> |[Good to Great: Why Some Companies Make the Leap...And Others Don't](https://www.amazon.com/Good-to-Great-Jim-Collins-audiobook/dp/B003VXI5MS/) | Jim Collins
-| <img src="https://m.media-amazon.com/images/I/51b8+3LQxhL.jpg" width="100"> |[Business Adventures: Twelve Classic Tales from the World of Wall Street](https://www.amazon.com/Business-Adventures-John-Brooks-audiobook/dp/B00M047J9E/) | John Brooks
-| <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> |[Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0/) | Malcolm Gladwell
-| <img src="https://m.media-amazon.com/images/I/41osMBtoloL.jpg" width="100"> |[Mythos](https://www.amazon.com/Mythos-Stephen-Fry-audiobook/dp/B07WKRP2F2/) | Stephen Fry
-| <img src="https://media.s-bol.com/4LOzokkKEG5x/550x775.jpg" width="100"> | [Lean Story Design'](https://www.bol.com/nl/p/lean-story-design-drieluik/9300000023537440/?bltgh=jn9JoWo53WsaMlPRcg1IbA.2_5.7.ProductTitle) | Gerjon Zomer
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
 
 #### Long list
 |            | Book        | Author      |
