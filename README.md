@@ -40,7 +40,7 @@ https://github.com/ralphkootker/books
 
 
 ## Reading in progress list
-|            | Book        | Author      |
+|Cover       | Book        | Author      |
 |------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41G61B4ygXL._AC_SX60_CR,0,0,60,60_.jpg" width="100"> |[The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-dp-1999579518/dp/1999579518/) | Andriy Burkov
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
