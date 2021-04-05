@@ -44,6 +44,13 @@ https://github.com/ralphkootker/books
 |------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41G61B4ygXL._AC_SX60_CR,0,0,60,60_.jpg" width="100"> |[The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-dp-1999579518/dp/1999579518/) | Andriy Burkov
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51iw9AITfbL._SX331_BO1,204,203,200_.jpg" width="100"> |[Competing in the Age of AI: Strategy and Leadership When Algorithms and Networks Run the World](https://www.amazon.com/Competing-Age-AI-Leadership-Algorithms/dp/1633697622/) | Marco Iansiti 
+
+
+## Reading wish list
+#### Short list
+|Cover       | Book        | Author      |
+|------------|-------------|-------------|
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
 | <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
@@ -58,12 +65,6 @@ https://github.com/ralphkootker/books
 | <img src="https://m.media-amazon.com/images/I/413iKST80XL.jpg" width="100"> |[Blink: The Power of Thinking Without Thinking](https://www.amazon.com/Blink-Malcolm-Gladwell-audiobook/dp/B00097DWY0/) | Malcolm Gladwell
 | <img src="https://m.media-amazon.com/images/I/41osMBtoloL.jpg" width="100"> |[Mythos](https://www.amazon.com/Mythos-Stephen-Fry-audiobook/dp/B07WKRP2F2/) | Stephen Fry
 | <img src="https://media.s-bol.com/4LOzokkKEG5x/550x775.jpg" width="100"> | [Lean Story Design'](https://www.bol.com/nl/p/lean-story-design-drieluik/9300000023537440/?bltgh=jn9JoWo53WsaMlPRcg1IbA.2_5.7.ProductTitle) | Gerjon Zomer
-
-## Reading wish list
-#### Short list
-|Cover       | Book        | Author      |
-|------------|-------------|-------------|
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
 
 #### Long list
 |Cover       | Book        | Author      |
