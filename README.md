@@ -76,3 +76,4 @@ https://personalmba.com/best-business-books/
 https://www.qualiware.com/blog/52-books
 https://www.ynharari.com/book/21-lessons-book/
 https://productcollective.com/best-books-for-product-managers/
+https://airfocus.com/blog/reading-list-for-product-managers/
