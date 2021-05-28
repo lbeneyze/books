@@ -44,6 +44,8 @@ https://github.com/ralphkootker/books
 |------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41G61B4ygXL._AC_SX60_CR,0,0,60,60_.jpg" width="100"> |[The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-dp-1999579518/dp/1999579518/) | Andriy Burkov
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
+| <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
+| <img src="https://images-na.ssl-images-amazon.com/images/I/41iI4SMqzCL._SX318_BO1,204,203,200_.jpg" width="100"> |[Getting Things Done](https://www.amazon.nl/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) | David Allen
 
 
 ## Reading wish list
@@ -52,7 +54,6 @@ https://github.com/ralphkootker/books
 |------------|-------------|-------------|
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
-| <img src="https://m.media-amazon.com/images/I/51PWIy1rHUL.jpg" width="100"> |[How to Win Friends & Influence People](https://www.amazon.com/How-Win-Friends-Influence-People/dp/B0006IU7JK/) | Dale Carnegie
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51wFRcCtKlL._SX324_BO1,204,203,200_.jpg" width="100"> |[Sprint: How To Solve Big Problems and Test New Ideas in Just Five Days](https://www.amazon.nl/Sprint-Solve-Problems-Test-Ideas/dp/0593076117/) | Jake Knapp
 | <img src="https://images-na.ssl-images-amazon.com/images/I/417u6oRUPTL._SX404_BO1,204,203,200_.jpg" width="100"> |[Data Modeling Made Simple, 2nd Edition: A Practical Guide for Business and IT Professionals](https://www.amazon.com/Data-Modeling-Made-Simple-Professionals/dp/0977140067/) | Steve Hoberman
 | <img src="https://m.media-amazon.com/images/I/51h1jhqTiZL.jpg" width="100"> |[The Goal: A Process of Ongoing Improvement](https://www.amazon.com/The-Goal-audiobook/dp/B00IFGGDA2/) | Eliyahu M. Goldratt
