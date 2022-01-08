@@ -51,7 +51,8 @@ https://github.com/ralphkootker/books
 ## Reading in progress list
 |Cover       | Book        | Author      |
 |------------|-------------|-------------|
-
+| <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
+| <img src="https://media.s-bol.com/qxRgE4L4OKMD/533x840.jpg" width="100"> |[Getting Things Done](https://www.bol.com/nl/nl/p/getting-things-done/9200000107679892/?bltgh=oR1F-U-DOJRxshimKZZIwQ.2_34.36.ProductTitle) | David Allen 
 
 ## Reading wish list
 #### Short list
@@ -60,10 +61,11 @@ https://github.com/ralphkootker/books
 |<img src="https://images-na.ssl-images-amazon.com/images/I/41TEZbwVZfL._SX397_BO1,204,203,200_.jpg" width="100"> |[Foundations of Data Intensive Applications](https://www.amazon.nl/Foundations-Data-Intensive-Applications-Analytics/dp/1119713021/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1641637727&sr=8-1) | Supun Kamburugamuve, Saliya Ekanayake
 |<img src="https://media.s-bol.com/xQDpB0WBNkJ/510x840.jpg" width="100"> |[Working with Emotional Intelligence](https://www.bol.com/nl/nl/p/working-with-emotional-intelligence/1001004008701899/?bltgh=lcKqCVk61Jf1Z6WH6oxL1w.2_9.10.ProductTitle)| Daniel Goleman
 |<img src="https://media.s-bol.com/3j9PYVKEDDKO/550x721.jpg" width="100"> |[Data Management at Scale](https://www.bol.com/nl/nl/p/data-management-at-scale/9300000001540180/?bltgh=gPIEC68qEE5rqR8P9vBDpw.2_9.10.ProductTitle)| Piethein Strengholt
+|<img src="https://media.s-bol.com/7XvzWWqwwv7r/550x823.jpg" width="100"> |[Becoming a Data Head](https://www.bol.com/nl/nl/p/becoming-a-data-head/9300000020132391/?bltgh=hxgTS-Xg2yMHm4z5QMpLyA.2_9.11.ProductTitle)| Alex J. Gutman
 | <img src="https://images-na.ssl-images-amazon.com/images/I/415QUewfiwS._SX331_BO1,204,203,200_.jpg" width="100"> |[Emotional intelligence](bol.com/nl/nl/p/emotional-intelligence/1001004002883388/?Referrer=ADVNLGOO002008O-G-114571495183-S-862202354333-1001004002883388&gclid=EAIaIQobChMIt6PD6NOI8wIVE6SyCh2SdQXZEAQYASABEgI09vD_BwE) | Daniel Goleman
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51YNLyGgLoL._SY344_BO1,204,203,200_QL70_ML2_.jpg" width="100"> |[Pitch Anything](https://www.bol.com/nl/nl/p/pitch-anything/1001004010723793/?Referrer=ADVNLGOO002008M-G-119060232667-S-854860376868-1001004010723793&gclid=EAIaIQobChMI2dbOu9OI8wIVluh3Ch0f1AIDEAYYASABEgKYz_D_BwE) | Oren Klaff
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41G61B4ygXL._AC_SX60_CR,0,0,60,60_.jpg" width="100"> |[The Hundred-Page Machine Learning Book](https://www.amazon.com/Hundred-Page-Machine-Learning-Book-dp-1999579518/dp/1999579518/) | Andriy Burkov  | ON HOLD
-| <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann  | ON HOLD
+
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41iI4SMqzCL._SX318_BO1,204,203,200_.jpg" width="100"> |[Getting Things Done](https://www.amazon.nl/Getting-Things-Done-Stress-Free-Productivity/dp/0143126563) | David Allen | ON HOLD
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51bAF5pdyeL._SX332_BO1,204,203,200_.jpg" width="100"> |[The Phoenix Project (A Novel About IT, DevOps, and Helping Your Business Win](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/1942788290/) | Gene Kim
 | <img src="https://images-na.ssl-images-amazon.com/images/I/41ALga4mxUL._SX328_BO1,204,203,200_.jpg" width="100"> |[Dare to Lead: Brave Work. Tough Conversations. Whole Hearts.](https://www.amazon.com/Dare-Lead-Brave-Conversations-Hearts/dp/0399592520/) | Brené Brown
