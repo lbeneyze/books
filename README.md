@@ -52,8 +52,10 @@ https://github.com/ralphkootker/books
 ## Reading in progress list
 |Cover       | Book        | Author      |
 |------------|-------------|-------------|
+| <img src="https://m.media-amazon.com/images/I/51lywfyz4uL.jpg" width="100"> |[The Courage to Be Disliked](https://www.amazon.com/The-Courage-to-Be-Disliked-audiobook/dp/B07BRPW98K/ref=sr_1_1?keywords=the+power+to+be+disliked&qid=1657009757&sprefix=the+power+to+be+%2Caps%2C185&sr=8-1)) | Ichiro Kishimi 
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
 | <img src="https://media.s-bol.com/qxRgE4L4OKMD/533x840.jpg" width="100"> |[Getting Things Done](https://www.bol.com/nl/nl/p/getting-things-done/9200000107679892/?bltgh=oR1F-U-DOJRxshimKZZIwQ.2_34.36.ProductTitle) | David Allen 
+
 
 ## Reading wish list
 #### Short list
