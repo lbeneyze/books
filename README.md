@@ -58,15 +58,15 @@ https://github.com/ralphkootker/books
 | <img src="https://images-na.ssl-images-amazon.com/images/I/51gP9mXEqWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://www.amazon.nl/Designing-Data-Intensive-Applications-Reliable-Maintainable/dp/1449373321/) | Martin Kleppmann
 | <img src="https://media.s-bol.com/qxRgE4L4OKMD/533x840.jpg" width="100"> |[Getting Things Done](https://www.bol.com/nl/nl/p/getting-things-done/9200000107679892/?bltgh=oR1F-U-DOJRxshimKZZIwQ.2_34.36.ProductTitle) | David Allen 
 | <img src="https://ars.els-cdn.com/content/image/3-s2.0-B9780123724991X50005-cov200h.gif" width="100"> |[The Profit Impact of Business Intelligence](https://www.amazon.com/Profit-Impact-Business-Intelligence-ebook/dp/B00BMETAV8/ref=sr_1_1?keywords=the+profit+impact+of+business+intelligence&qid=1664778847&qu=eyJxc2MiOiIwLjAwIiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&s=books&sprefix=the+profit+impac%2Cstripbooks-intl-ship%2C186&sr=1-1) | Steve Williams, Nancy Williams
-
+|<img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41OoXs3W3nL._SX331_BO1,204,203,200_.jpg" width="100"> |[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Joe Reis
 
 
 ## Reading wish list
 #### Short list
 |Cover       | Book        | Author      |
 |------------|-------------|-------------|
+|<img src="https://www.cairn.info/cover/width-204/DUNOD_HC/DUNOD_LEVY_2021_01.jpg" width="100"> |[Fundamentals of Data Engineering](https://www.cairn.info/sortez-vos-donnees-du-frigo--9782100817054.htm) | Mick Lévy
 |<img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41BCu6h1rWL._SX379_BO1,204,203,200_.jpg" width="100"> |[Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302) | Nicole Forsgren PhD, Jez Humble, Gene Kim
-|<img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41OoXs3W3nL._SX331_BO1,204,203,200_.jpg" width="100"> |[Accelerate](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339) | Joe Reis
 |<img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/419+QWW6uYS._SX331_BO1,204,203,200_.jpg" width="100"> |[Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://www.amazon.com/Team-Topologies-Organizing-Business-Technology/dp/1942788819/) | Matthew Skelton, Manuel Pais
 |<img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/51gpdSVRCoL._SX430_BO1,204,203,200_.jpg" width="100"> |[Remote Team Interactions Workbook: Using Team Topologies Patterns for Remote Working](https://www.amazon.com/Remote-Team-Interactions-Workbook-Topologies/dp/1950508617/) | Matthew Skelton, Manuel Pais
 |<img src="https://m.media-amazon.com/images/W/WEBP_402378-T2/images/I/41IrGUOlW1L._SX218_BO1,204,203,200_QL40_FMwebp_.jpg" width="100"> |[Data Mesh: Delivering Data-Driven Value at Scale](https://www.amazon.com/Data-Mesh-Delivering-Data-Driven-Value/dp/1492092398) | Zhamak Dehghani
